@@ -92,8 +92,8 @@ async def start_command(client: Client, message: Message):
         reply_markup = InlineKeyboardMarkup(
             [
                 [
-                    InlineKeyboardButton('Channel 1', url='https://t.me/+Cn6cyJZ7cic5Y2Y1'),
-                    InlineKeyboardButton('Channel 2', url='https://t.me/+eurt6KqA0DY1OGRl')
+                    InlineKeyboardButton('Channel 1', url='https://t.me/+CXfE7DuvyQBjYTNl'),
+                    InlineKeyboardButton('Channel 2', url='https://t.me/+5RHlKjXsbZExNmY1')
                 ]
             ]
         )
